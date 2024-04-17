@@ -13,9 +13,14 @@ Mozilla 3.0 (Linux; Android 10 EME796 Build/MQ70915.22892.43126) AppleWebKit/514
 ```
 
 ## Usage
-```js
+```javascript
+// In javascript
 rotation.create()
-// Returns a string
+```
+
+```python
+# In python
+Rotation().create()
 ```
 
 ## Structure

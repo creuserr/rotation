@@ -10,7 +10,7 @@ const rotation = {
   $build() {
     let that = this
     const char = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")
-    return new Array(2).fill(0).map(_ => char[that._random(0, char.length -1)]).join("") + new Array(3).fill(0).map(_ => that._random(1, 99999))
+    return new Array(2).fill(0).map(_ => char[that._random(0, char.length -1)]).join("") + new Array(3).fill(0).map(_ => that._random(1, 99999)).join("")
   },
   create() {
     const prod = `Mozilla ${this._random(3, 5)}.0`

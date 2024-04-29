@@ -71,14 +71,14 @@ Rotation.createAndroid();
 # User Agents
 
 Bots:
-- Baidu Spider
-- Bing Bot
-- Google Bot
+- [Baidu Spider](https://github.com/creuserr/rotation/tree/main/docs/bots/baiduspider.md)
+- [Bing Bot](https://github.com/creuserr/rotation/tree/main/docs/bots/bingbot.md)
+- [Google Bot](https://github.com/creuserr/rotation/tree/main/docs/bots/googlebot.md)
 
 Consoles:
-- PlayStation
-- Xbox One
-- Nintendo
+- [PlayStation](https://github.com/creuserr/rotation/tree/main/docs/consoles/playstation.md)
+- [Xbox One](https://github.com/creuserr/rotation/tree/main/docs/consoles/xboxone.md)
+- [Nintendo](https://github.com/creuserr/rotation/tree/main/docs/consoles/nineendo.md)
 
 Desktops:
 - Chrome OS

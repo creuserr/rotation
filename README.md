@@ -1,3 +1,8 @@
+> [!NOTE]
+> `rotation` will be revised soon. For more information, take a look at [Project Qualify](https://github.com/creuserr/creblog/blob/main/project-qualify.md).
+>
+> *Stamped at April 29, 2024*
+
 # rotation
 A simple mobile-based user agent generator
 

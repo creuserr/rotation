@@ -78,7 +78,7 @@ Bots:
 Consoles:
 - [PlayStation](https://github.com/creuserr/rotation/tree/main/docs/consoles/playstation.md)
 - [Xbox One](https://github.com/creuserr/rotation/tree/main/docs/consoles/xboxone.md)
-- [Nintendo](https://github.com/creuserr/rotation/tree/main/docs/consoles/nineendo.md)
+- [Nintendo](https://github.com/creuserr/rotation/tree/main/docs/consoles/nintendo.md)
 
 Desktops:
 - Chrome OS

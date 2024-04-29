@@ -23,3 +23,4 @@ const rotation = {
     return `${prod} (Linux; ${andr} ${mod}) ${kit} (KHTML, like Gecko) ${ver} ${chrom} ${safar}`
   }
 }
+

@@ -81,9 +81,9 @@ Consoles:
 - [Nintendo](https://github.com/creuserr/rotation/tree/main/docs/consoles/nintendo.md)
 
 Desktops:
-- Chrome OS
-- Windows
-- Mac on Safari
+- [Chrome OS](https://github.com/creuserr/rotation/tree/main/docs/desktops/chromeos.md)
+- [Windows](https://github.com/creuserr/rotation/tree/main/docs/desktops/windows.md)
+- [Mac on Safari](https://github.com/creuserr/rotation/tree/main/docs/desktops/macsafari.md)
 
 Mobile:
 - iPhone

@@ -19,7 +19,7 @@ randint(3, 5);
 
 <sub>[2]</sub> Windows NT version <br>
 ```javascript
-rot.randint(7, 12);
+randint(7, 12);
 ```
 
 <sub>[3]</sub> Windows OS <br>

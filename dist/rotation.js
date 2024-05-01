@@ -36,11 +36,11 @@ class Rotation {
     andr.type = "samsung";
     return andr;
   }
-  static createGooglePixel(conf = {}, a = {}) {
+  static createGooglePixel(a = {}) {
     let args = new Object(a);
     const rot = Rotation;
-    const ispro = conf.ispro || rot.randint(0, 1) == 1;
-    const isa = ispro && rot.randint(0, 1) == 1 && conf.ispro == null;
+    const ispro = a.ispro || rot.randint(0, 1) == 1;
+    const isa = ispro && rot.randint(0, 1) == 1 && a.ispro == null;
     const mod = conf.model || rot.randint(5, 10);
     args.model = `Pixel ${mod}${isa ? "a" : ""} ${ispro ? "Pro" : ""}`;
     let andr = Rotation.createAndroid(args);

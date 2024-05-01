@@ -74,7 +74,7 @@ Rotation.createAndroid();
 }
 ```
 
-Every user agent generator can be customize by passing object as an argument.
+Every user agent generator can be customized by passing an object as an argument.
 
 ```javascript
 Rotation.createAndroid({

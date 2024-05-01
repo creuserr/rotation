@@ -108,11 +108,11 @@ Desktops:
 
 Mobile:
 - [iPhone](https://github.com/creuserr/rotation/tree/main/docs/mobiles/iphone.md)
-- Microsoft Lumia
-- Samsung
-- Google Pixel
-- Motorola
-- Android
+- [Microsoft Lumia](https://github.com/creuserr/rotation/tree/main/docs/mobiles/mslumia.md)
+- [Samsung](https://github.com/creuserr/rotation/tree/main/docs/mobiles/samsung.md)
+- [Google Pixel](https://github.com/creuserr/rotation/tree/main/docs/mobiles/googlepixel.md)
+- [Motorola](https://github.com/creuserr/rotation/tree/main/docs/mobiles/motorola.md)
+- [Android](https://github.com/creuserr/rotation/tree/main/docs/mobiles/android.md)
 
 Browsers:
 - Android on Edge

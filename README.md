@@ -74,6 +74,8 @@ Rotation.createAndroid();
 }
 ```
 
+`rotation` contains user-agent generator and randomizers. Take a look at the list below for more information:
+
 # User Agents
 
 Bots:
@@ -123,7 +125,7 @@ Randomizers:
 - Random Apple
 - Random Console
 - Random Bot
-- Random User Agent (all)
+- Random (all user agent)
 
 Generators:
 - Random Integer

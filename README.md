@@ -74,6 +74,18 @@ Rotation.createAndroid();
 }
 ```
 
+Every user agent generator can be customize by passing object as an argument.
+
+```javascript
+Rotation.createAndroid({
+  webkit: "123.456.789"
+});
+{
+  type: "android",
+  useragent: "Mozilla/5.0 (Linux; Android 11; SSP1494 Build/QO8622) AppleWebKit/123.456.789 (KHTML, like Gecko) Version/3.0 Chrome/6613 Mobile Safari/693"
+}
+```
+
 `rotation` contains user agent generator, randomizers, and some small tools. Take a look at the list below for more information:
 
 ## User Agents

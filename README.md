@@ -25,7 +25,7 @@ Desktops:
 ```
 Mobile:
   iPhone             - Mozilla/5.0 (iPhone; U; CPU iphone OS12_1 like Mac OS X) AppleWebKit/490.472 (KHTML, like Gecko) Version/5.0 FxiOs/245.108 Mobile Safari/40.393
-  MS Lumia           - Mozilla/3.0 (Windows Phone 13.0; Android 10; Microsoft; RM-3163) AppleWebKit/608 (KHTML, like Gecko) Chrome/5456.9510.1025.7793 Mobile Safari/480 Edge/914.277
+  Microsoft Lumia    - Mozilla/3.0 (Windows Phone 13.0; Android 10; Microsoft; RM-3163) AppleWebKit/608 (KHTML, like Gecko) Chrome/5456.9510.1025.7793 Mobile Safari/480 Edge/914.277
   Samsung            - Mozilla/4.0 (Linux; Android 11; SM-Z911I Build/OI9061) AppleWebKit/508 (KHTML, like Gecko) Version/5.0 Chrome/9590.3002.5264.4919 Mobile Safari/125
   Google Pixel       - Mozilla/3.0 (Linux; Android 12; Pixel 7a Pro Build/OT1293.6987) AppleWebKit/893 (KHTML, like Gecko) Version/5.0 Chrome/5288 Mobile Safari/314
   Motorola           - Mozilla/4.0 (Linux; Android 13; moto g stylus 5g Build/OZ1319) AppleWebKit/636.244 (KHTML, like Gecko) Version/3.0 Chrome/3796.5424 Mobile Safari/583.377
@@ -108,7 +108,7 @@ Desktops:
 
 Mobile:
 - iPhone
-- MS Lumia
+- Microsoft Lumia
 - Samsung
 - Google Pixel
 - Motorola

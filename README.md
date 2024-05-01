@@ -74,9 +74,9 @@ Rotation.createAndroid();
 }
 ```
 
-`rotation` contains user-agent generator and randomizers. Take a look at the list below for more information:
+`rotation` contains user agent generator, randomizers, and some small tools. Take a look at the list below for more information:
 
-# User Agents
+## User Agents
 
 Bots:
 - [Baidu Spider](https://github.com/creuserr/rotation/tree/main/docs/bots/baiduspider.md)
@@ -115,7 +115,7 @@ Others:
 - Apple Watch
 - Apple TV
 
-# Tools
+## Tools
 
 Randomizers:
 - Random Mobile

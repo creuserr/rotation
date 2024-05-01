@@ -79,6 +79,7 @@ Every user agent generator can be customized by passing an object as an argument
 ```javascript
 Rotation.createAndroid({
   webkit: "123.456.789"
+  // AppleWebKit/123.456.789
 });
 {
   type: "android",

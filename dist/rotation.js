@@ -72,7 +72,7 @@ class Rotation {
       useragent: `Mozilla/${moz}.0 (iPhone${ipv || ""}; U; CPU iphone OS${osc} like Mac OS X) AppleWebKit/${wk} (KHTML, like Gecko) Version/${ver}.0 ${osys} Mobile Safari/${f}`
     }
   }
-  static createMSLumia({ mozilla, chromium, webkit, safari, windows, android, version, edge } = {}) {
+  static createMSLumia({ mozilla, chromium, webkit, safari, windows, android, model, edge } = {}) {
     const rot = Rotation;
     const moz = mozilla || rot.randint(3, 5);
     const wk = webkit || rot.randarr(2).map(_ => rot.randint(100, 999)).join(".");
@@ -80,11 +80,11 @@ class Rotation {
     const chr = chromium || rot.randarr(4).map(_ => rot.randint(0, 9999)).join(".");
     const win = windows || rot.randint(10, 15);
     const andr = android || rot.randint(10, 13);
-    const ver = version || rot.randint(1000, 9999);
+    const mod = model || rot.randchar(2) + "-" + rot.randint(1000, 9999);
     const edg = edge || rot.randarr(4).map(_ => rot.randint(100, 999)).join(".");
     return {
       type: "mslumia",
-      useragent: `Mozilla/${moz}.0 (Windows Phone ${win}.0; Android ${andr}; Microsoft; RM-${ver}) AppleWebKit/${wk} (KHTML, like Gecko) Chrome/${chr} Mobile Safari/${f} Edge/${edg}`
+      useragent: `Mozilla/${moz}.0 (Windows Phone ${win}.0; Android ${andr}; Microsoft; ${mod}) AppleWebKit/${wk} (KHTML, like Gecko) Chrome/${chr} Mobile Safari/${f} Edge/${edg}`
     }
   }
   static createIpad({ mozilla, os, webkit, version, safari } = {}) {

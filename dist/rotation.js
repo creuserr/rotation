@@ -31,7 +31,7 @@ class Rotation {
   static createSamsung(a = {}) {
     let args = new Object(a);
     const rot = Rotation;
-    args.model = "SM-" + rot.randchar(1) + rot.randint(100, 999) + rot.randchar(1);
+    args.model = args.model || "SM-" + rot.randchar(1) + rot.randint(100, 999) + rot.randchar(1);
     let andr = Rotation.createAndroid(args);
     andr.type = "samsung";
     return andr;

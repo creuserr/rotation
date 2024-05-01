@@ -47,12 +47,12 @@ class Rotation {
     andr.type = "googlepixel";
     return andr;
   }
-  static createMotorola(conf = {}, a = {}) {
+  static createMotorola(a = {}) {
     let args = new Object(a);
     const rot = Rotation;
     const model = ["moto g pure", "moto g stylus", "moto g stylus 5g", "moto g 5g", "moto g power"];
     const year = rot.randint(0, 1) == 1 ? !1 : rot.randint(2010, 2024);
-    args.model = (conf.model || model[rot.randint(0, model.length - 1)]) + (year ? ` (${year})` : "");
+    args.model = (a.model || model[rot.randint(0, model.length - 1)]) + (year ? ` (${year})` : "");
     let andr = Rotation.createAndroid(args);
     andr.type = "motorola";
     return andr;

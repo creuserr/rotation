@@ -41,7 +41,7 @@ class Rotation {
     const rot = Rotation;
     const ispro = a.ispro || rot.randint(0, 1) == 1;
     const isa = ispro && rot.randint(0, 1) == 1 && a.ispro == null;
-    const mod = conf.model || rot.randint(5, 10);
+    const mod = a.model || rot.randint(5, 10);
     args.model = `Pixel ${mod}${isa ? "a" : ""} ${ispro ? "Pro" : ""}`;
     let andr = Rotation.createAndroid(args);
     andr.type = "googlepixel";

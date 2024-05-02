@@ -115,7 +115,7 @@ Mobile:
 - [Android](https://github.com/creuserr/rotation/tree/main/docs/mobiles/android.md)
 
 Browsers:
-- Android on Edge
+- [Android on Edge](https://github.com/creuserr/rotation/tree/main/docs/browsers/androidedge.md)
 - Android on Firefox
 - Android on Opera
 - Android on Chrome

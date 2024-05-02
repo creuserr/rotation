@@ -68,6 +68,8 @@ When creating a user agent, it will produce an object.
 
 ```javascript
 Rotation.createAndroid();
+
+// output:
 {
   type: "android",
   useragent: "Mozilla/4.0 (Linux; Android 10; XBP2422 Build/DV8750) AppleWebKit/188 (KHTML, like Gecko) Version/3.0 Chrome/8998 Mobile Safari/296"
@@ -81,6 +83,8 @@ Rotation.createAndroid({
   webkit: "123.456.789"
   // AppleWebKit/123.456.789
 });
+
+// output:
 {
   type: "android",
   useragent: "Mozilla/5.0 (Linux; Android 11; SSP1494 Build/QO8622) AppleWebKit/123.456.789 (KHTML, like Gecko) Version/3.0 Chrome/6613 Mobile Safari/693"

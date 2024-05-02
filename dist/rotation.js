@@ -299,7 +299,7 @@ class Rotation {
     const edg = edge || rot.randarr(4).map(_ => rot.randint(100, 999)).join(".");
     return {
       type: "androidedge",
-      useragent: `Mozilla/${moz} (Linux; Android ${andr}; ${mod}) AppleWebKit/${wk} (KHTML, like Gecko) Chrome/${chr} Mobile Safari/${f} EdgA/${edg}`
+      useragent: `Mozilla/${moz}.0 (Linux; Android ${andr}; ${mod}) AppleWebKit/${wk} (KHTML, like Gecko) Chrome/${chr} Mobile Safari/${f} EdgA/${edg}`
     }
   }
   static randomMobile(ign, conf) {

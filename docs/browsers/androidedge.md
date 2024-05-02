@@ -56,6 +56,6 @@ randarr(4).map(_ => randint(100, 999)).join(".");
   webkit: String, // [4]
   chromium: String, // [5]
   safari: String, // [6]
-  edge: String, // [7]
+  edge: String // [7]
 }
 ```

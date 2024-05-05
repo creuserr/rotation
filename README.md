@@ -123,7 +123,7 @@ Mobile:
 
 Browsers:
 - [Android on Edge](https://github.com/creuserr/rotation/tree/main/docs/browsers/androidedge.md)
-- Android on Firefox
+- [Android on Firefox](https://github.com/creuserr/rotation/tree/main/docs/browsers/androidfirefox.md)
 - Android on Opera
 - Android on Chrome
 

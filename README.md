@@ -2,7 +2,8 @@
 > This documentation is under construction. Please refer to `/v1/` for the stable version.
 
 > [!NOTE]
-> Due to my hectic personal schedule, this repository will only recieve a single documentation each day. For more information, please read my blog **Project Qualify** at [`creuserr/creblog`](https://github.com/creuserr/creblog/blob/main/project-qualify.md#may-2-2024).
+> Due to personal reasons, `rotation` will be put on hold.
+> For more information, please read the [Project Qualify](https://github.com/creuserr/creblog/blob/main/project-qualify.md#may-6-2024) blog.
 
 # rotation
 `rotation` is a diverse user-agent generator library written in javascript.

@@ -125,16 +125,16 @@ Mobile:
 Browsers:
 - [Android on Edge](https://github.com/creuserr/rotation/tree/main/docs/browsers/androidedge.md)
 - [Android on Firefox](https://github.com/creuserr/rotation/tree/main/docs/browsers/androidfirefox.md)
-- Android on Opera
-- Android on Chrome
+- [Android on Opera](https://github.com/creuserr/rotation/tree/main/docs/browsers/androidopera.md)
+- [Android on Chrome](https://github.com/creuserr/rotation/tree/main/docs/browsers/androidchrome.md)
 
 Tablets:
-- Kindle Fire
-- iPad
+- [Kindle Fire](https://github.com/creuserr/rotation/tree/main/docs/tablets/amazonkindle.md)
+- [iPad](https://github.com/creuserr/rotation/tree/main/docs/tablets/ipad.md)
 
 Others:
-- Apple Watch
-- Apple TV
+- [Apple Watch](https://github.com/creuserr/rotation/tree/main/docs/misc/applewatch.md)
+- [Apple TV](https://github.com/creuserr/rotation/tree/main/docs/misc/appletv.md)
 
 ## Tools
 

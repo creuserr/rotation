@@ -135,7 +135,7 @@ Others:
 ## Tools
 
 Randomizers:
-- Random Mobile
+- [Random Mobile](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random-mobile)
 - Random Android
 - Random Browser
 - Random Desktop

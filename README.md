@@ -136,16 +136,16 @@ Others:
 
 Randomizers:
 - [Random Mobile](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random-mobile)
-- Random Android
-- Random Browser
-- Random Desktop
-- Random Apple
-- Random Console
-- Random Bot
-- Random (all user agent)
+- [Random Android](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random-android)
+- [Random Browser](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random-browser)
+- [Random Desktop](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random-desktop)
+- [Random Apple](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random-apple)
+- [Random Console](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random-console)
+- [Random Bot](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random-bot)
+- [Random (all user agent)](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random)
 
 Generators:
-- Random Integer
-- Random Array
-- Random Characters
-- Character Set
+- [Random Integer](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random-integer)
+- [Random Array](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random-array)
+- [Random Characters](https://github.com/creuserr/rotation/tree/main/docs/tools.md#random-characters)
+- [Character Set](https://github.com/creuserr/rotation/tree/main/docs/tools.md#character-set)

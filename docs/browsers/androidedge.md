@@ -3,7 +3,7 @@
 **Type:** `androidedge`
 
 ```javascript
-Rotation.createAndroidEdge();
+Rotation.createAndroidedge();
 // Mozilla/3.0 (Linux; Android 11; MAG5964) AppleWebKit/456.828 (KHTML, like Gecko) Chrome/4717.7741.4978.7134 Mobile Safari/234.351 EdgA/931
 ```
 
@@ -56,6 +56,6 @@ randarr(4).map(_ => randint(100, 999)).join(".");
   webkit: String, // [4]
   chromium: String, // [5]
   safari: String, // [6]
-  edge: String // [7]
+  edge: String, // [7]
 }
 ```

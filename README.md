@@ -1,6 +1,3 @@
-> [!WARNING]
-> This documentation is under construction. Please refer to `/v1/` for the stable version.
-
 # rotation
 `rotation` is a diverse user-agent generator library written in javascript.
 

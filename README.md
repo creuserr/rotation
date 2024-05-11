@@ -40,7 +40,7 @@ Browsers:
   Android on Edge    - Mozilla/3.0 (Linux; Android 11; MAG5964) AppleWebKit/456.828 (KHTML, like Gecko) Chrome/4717.7741.4978.7134 Mobile Safari/234.351 EdgA/931
   Android on Firefox - Mozilla/4.0 (Android 12; Mobile; rv:27.0) Gecko/550239 Firefox/40.0
   Android on Opera   - Opera/80 (Android; Opera Mini/34; U; en) Presto/303.238 Version/10
-  Android on Chrome  - Mozilla/5.0 (Linux; Android 13; K) AppleWebKit906.250 (KHTML, like Gecko) Chrome/6424.8417.353.6046 Mobile Safari/558
+  Android on Chrome  - Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/906.250 (KHTML, like Gecko) Chrome/6424.8417.353.6046 Mobile Safari/558
 ```
 ```
 Tablets:

@@ -1,6 +1,6 @@
 class Rotation {
-  static version = 2;
-  static charset = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".repeat(5).split("");
+  static version = 3;
+  static charset = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".repeat(7).split("");
   static randint(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }

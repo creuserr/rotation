@@ -49,7 +49,7 @@ Tablets:
 ```
 ```
 Others:
-  Apple Watch        - Mozilla/4.0 (Apple Watch3; CPU Apple Watch WatchOS like Mac OS X; WatchApp)
+  Apple Watch        - Mozilla/4.0 (Apple Watch 3; CPU Apple Watch WatchOS like Mac OS X; WatchApp)
   Apple TV           - Mozilla/3.0 (AppleTV10; CPU OS 10.4 like Mac OS X; en-US)
 ```
 

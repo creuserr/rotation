@@ -234,7 +234,7 @@ class Rotation {
     const ver = version || rot.randint(3, 5);
     return {
       type: "applewatch",
-      useragent: `Mozilla/${moz}.0 (Apple Watch${ver}; CPU Apple Watch WatchOS like Mac OS X; WatchApp)`
+      useragent: `Mozilla/${moz}.0 (Apple Watch ${ver}; CPU Apple Watch WatchOS like Mac OS X; WatchApp)`
     }
   }
   static createAndroidChrome({ mozilla, android, webkit, chromium, safari } = {}) {

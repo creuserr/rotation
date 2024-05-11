@@ -246,7 +246,7 @@ class Rotation {
     const f = safari || rot.randarr(2).map(_ => rot.randint(10, 700)).join(".");
     return {
       type: "androidchrome",
-      useragent: `Mozilla/${moz}.0 (Linux; Android ${andr}; K) AppleWebKit${wk} (KHTML, like Gecko) Chrome/${chr} Mobile Safari/${f}`
+      useragent: `Mozilla/${moz}.0 (Linux; Android ${andr}; K) AppleWebKit/${wk} (KHTML, like Gecko) Chrome/${chr} Mobile Safari/${f}`
     }
   }
   static createWindows({ mozilla, version, os, windows, webkit, chromium, safari } = {}) {

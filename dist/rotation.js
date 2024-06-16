@@ -428,7 +428,7 @@ class Rotation {
   }
 }
 
-(_ => {
-  if("global" in this && "module" in this.global) module.exports = Rotation
-  if("window" in this) window.Rotation = Rotation;
+(() => {
+  if("module" in globalThis) module.exports = Rotation
+  if("window" in globalThis) window.Rotation = Rotation;
 })();
